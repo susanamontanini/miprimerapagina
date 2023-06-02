@@ -16,7 +16,9 @@ font-size: 18px;
 padding: 10px;
 margin: 20px;
 }
-
+greeting {
+  text-align: center;
+  }
 
 .box { 
   background-color: lightgrey;
